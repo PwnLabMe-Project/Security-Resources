@@ -171,6 +171,8 @@ https://t.me/KekikAkademi
 
 [ Z-winK University (ZU) - Bug Bounty Education ] https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ/videos
 
+[ Jeremy's IT Lab ] https://www.youtube.com/c/JeremysITLab
+
 ## CTF
 
 https://tryhackme.com/
