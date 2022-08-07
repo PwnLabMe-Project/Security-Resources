@@ -555,16 +555,17 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 https://github.com/GuidoBartoli/sherloq
 
-## Linux Tutorial
+
+## Documents
+
+
+### Linux Tutorial
 
 https://www.comparitech.com/net-admin/kali-linux-cheat-sheet/
 
 https://www.maketecheasier.com/guide-to-mastering-linux/
 
 https://linoxide.com/linux-directory-structure/
-
-
-## Documents
 
 ### Reverse Engineering & Malware Analysis 
 
