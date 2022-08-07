@@ -235,7 +235,7 @@ https://cxsecurity.com/
 
 https://packetstormsecurity.com/
 
-https://vuldb.com/?
+https://vuldb.com/
 
 https://vulners.com/
 
