@@ -16,7 +16,7 @@
 
 - [Telegram](https://t.me/CyberSec_TR)
 
-- [Discord](https://discord.gg/GYzrXcGTbr)
+- [Discord](https://discord.gg/y5txp84eUv)
 
 <h1 align="center">PWNLAB SECURITY RESOURCES</h1>
 
