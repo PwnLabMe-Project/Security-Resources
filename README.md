@@ -14,9 +14,9 @@
 
 - [Instagram](https://www.instagram.com/pwnlab.me/)
 
-- [Telegram](https://t.me/CyberSec_TR)
+- [Telegram](https://t.me/hackcoderepeat)
 
-- [Discord](https://discord.gg/y5txp84eUv)
+- [Discord](https://discord.gg/pwnlabme)
 
 <h1 align="center">PWNLAB SECURITY RESOURCES</h1>
 
